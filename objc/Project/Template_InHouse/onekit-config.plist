@@ -7,7 +7,7 @@
 		<key>update</key>
 		<dict>
 			<key>host</key>
-			<string>xxx</string>
+			<string>https://release-api.vemarsdev.com/v1/gray_release/package</string>
 		</dict>
 		<key>jsbridge_services</key>
 		<dict>
@@ -44,11 +44,11 @@
 	<key>project_info</key>
 	<dict>
 		<key>ak</key>
-		<string>MARS_AK_KEY</string>
+		<string>e4df49e6e9aab648d75d8759d9ce1ca5</string>
 		<key>sk</key>
-		<string>MARS_SK_KEY</string>
+		<string>d737bc2d5a643d23f2288227f0834e7a</string>
 		<key>app_id</key>
-		<string>APP_ID</string>
+		<string>264948</string>
 		<key>is_inhouse_app</key>
 		<false/>
 	</dict>
